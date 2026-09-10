@@ -11,7 +11,7 @@ __pycache__/
 data/raw/
 data/processed/
 
-models/*.pkl
+# models/*.pkl   ← commented out, we ARE committing the model
 
 .DS_Store
 Thumbs.db
