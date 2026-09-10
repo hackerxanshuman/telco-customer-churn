@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that predicts which telecom customers are likely to churn, enabling proactive retention strategies.
 
-Live Demo:[Coming soon on Streamlit Cloud]
+Live Demo:[https://telco-customer-churn-gdw5dyssknn3p2s7fy5fkn.streamlit.app/]
 
 ---
 
